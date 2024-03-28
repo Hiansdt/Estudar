@@ -4,7 +4,6 @@
 [[Eat The Frog]].
 [[Focused Work]].
 
-- Historinha
 - Introdução
 - Sono
 - Horário (Quando)
@@ -14,6 +13,25 @@
 - Como Estudar (Lembrar: Objetivo da sessão)
 - Recomendações?
 
+## Introdução
+
+Nessa palestra nós vamos abordar estudos e aprendizado no geral, desde coisas que você pode fazer para conseguir aprender e raciocinar melhor sem envolver estudos necessariamente, até como organizar uma sessão de estudos, quanto tempo estudar, técnicas e coisas que vão fazer com que você possa não somente aprender muito mais de verdade e tirar notas melhores, mas também de modo com que você consiga isso tudo precisando de muito menos tempo, com a melhor eficiência possível
+
+==VOCÊ NÃO É A EXCEÇÃO==
+
+O primeiro ponto que eu quero abordar, só pra deixar claro logo no começo, é que você não deve se considerar a exceção, ou contar com uma exceção. O que eu quero dizer com isso é:
+
+Todo mundo conhece aquele aluno que aparentemente por algum milagre, não faz nada e se da muito bem em provas, trabalhos, etc. E parece simplesmente saber das coisas mesmo dormindo na aula e aparentemente não fazendo nada.
+
+E o primeiro passo pra você conseguir melhorar no seu aprendizado e em quase tudo na vida, porque esse conselho serve não somente pra escola, é você entender e aceitar que você provavelmente não é a exceção. Você não deveria tentar ser alguém que tenta conseguir bons resultados com 0 esforço.
+
+Então realmente não é uma boa ideia que você vá pra uma prova, por exemplo, ciente de que você não sabe nada sobre o assunto, mas ainda na esperança de que algum tipo de milagre aconteça e você consiga se dar bem, ou as coisas estejam fáceis.
+
+Você deveria ir com a expectativa de que as coisas vão ir exatamente de acordo com o que as circunstâncias tão te dizendo.
+
+Então se você vai ter seu conhecimento sobre algo testado, e o seu conhecimento sobre tal coisa é mínimo ou nenhum, a única coisa que faz sentido você esperar é que não vai dar muito certo.
+
+	E essa é a primeira coisa que você tem que manter em mente, você provavelmente não é a exceção pras coisas, e você não deveria esperar que algo diferente vá acontecer, só assim você pode progredir.
 ## Sono [[Sleep]]
 
 Definitivamente uma das partes mais importantes. 7 a 10h necessárias.
@@ -37,6 +55,8 @@ Quarto limpo, fresco, escuro e silencioso.
 Luz solar de manhã. Influencia drasticamente no rítmo circadiano. Ter exposição à luz solar nos olhos e pele assim que possível pela manhã.
 
 Dica pessoal: Caso não consiga dormir, deixar a intenção de lado e simplesmente relaxar e se deixar pensar no dia ou outras coisas. É muito mais fácil do sono vir naturalmente dessa forma, e mesmo que não venha tão cedo, ainda houve um descanso menor.
+
+==Não é uma boa ideia deixar de dormir para estudar.==
 ## Horário
 
 Um dos fatores que mais vão determinar a qualidade de uma sessão de estudos é ter um horário definido para isso.
@@ -121,3 +141,34 @@ Novamente, depende do tempo que você tem livre, e do que você vai estudar, de 
 Mas você pode ter uma noção do tempo de estudo focado que você tem que ter, quanto tempo você estuda antes de dar uma pausa? preferencialmente mais de 30min. Como eu disse, nós demoramos até uns 20 e poucos minutos pra entrar no estado de foco, então não faz sentido se você planeja estudar 15, 20, 25 minutos e dar uma pausa pra depois voltar, pois você ta quebrando seu foco e dando uma pausa bem quando você começa a conseguir se concentrar de fato.
 
 Eu diria que você deveria ter pelo menos 1h de puro estudo antes de dar uma pausa.
+
+## Como estudar
+
+*O que exatamente fazer durante uma sessão de estudos?*
+
+Existem diversas técnicas de estudo muito famosas por aí, algumas delas eficientes, outras nem tanto, e eu vou passar por algumas que por experiência própria e comprovação científica são algumas das melhores.
+
+Vale a pena ressaltar que você pode ter ótimos resultados com algumas dessas e talvez outras não serão a mesma coisa pra você, o que importa é você testar e descobrir o que você consegue fazer e o que funciona melhor pra você.
+
+O que eu vou fazer aqui é o seguinte, eu tenho uma lista de diversas técnicas / hábitos de estudo, alguns comuns entre estudantes e outros não, e eu vou passar em cada uma delas explicando brevemente e dizendo por que não funcionam/não fazem sentido, e porque outras funcionam muito bem.
+
+Vai ser divido no seguinte: Primeiro aquelas que são muito comuns mas não vale a pena você perder seu tempo fazendo, e depois algumas que funcionam de fato.
+
+Que não funcionam
+
+- Simplesmente ler o conteúdo / As suas notas
+- Transcrever o conteúdo inteiro
+- Sublinhar ou destacar texto
+- Assistir videoaula ( Depende )
+
+Que funcionam:
+- Pomodoro (E por que pode n funcionar / Como fazer)
+- Exercícios
+- Resumir o conteúdo em suas próprias palavras
+- Repetição Espaçada e a curva do esquecimento
+- FlashCards para revisão (Repetição Espaçada Combinando)
+- Mapa Mental (Depende)
+
+A chave é 'aprendizado ativo' ao invés de passivo. Você tem que meter a mão na massa e participar do seu próprio aprendizado, ao invés de ficar simplesmente lendo ou ouvindo algo. Você precisa fazer seu cérebro funcionar e até ter um pouco de dificuldade pra que você consiga aprender algo realmente.
+
+A parte mais importante é você começar uma sessão de estudos com um objetivo em mente. Como eu já repeti diversas vezes, não deixe pra decidir o que você vai fazer logo quando você está prestes a fazer. Não para pra decidir o que ou como você vai estudar durante a sessão de estudos. Você já decide o que você pretende fazer e onde você pretende chegar com uma sessão de estudos específica. Se você vai aprender um conteúdo novo desde o começo, se você vai revisar algo que você já viu, se você vai praticar, resumir, o que for. Por exemplo: Se você decidiu que você vai praticar e estudar um conteúdo com exercícios, o que já é uma boa iniciativa, você planeja que exercícios você pretende fazer: 'Tal lista completa, os exercícios de número tal até número tal', etc. Isso faz com que você não só economize muito tempo, como vai fazer com que quando chegar a hora de estudar realmente, você possa simplesmente focar em fazer o que você precisa fazer e não gastar sua atenção e tempo pra começar a decidir o que você vai fazer, o que eu garanto que é algo horrível pro seu aprendizado.
